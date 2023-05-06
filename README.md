@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syimyk Mitalipov</h1>
+<h1 align="center">Hi 👋, I'm Nurbol Zhanybekov</h1>
 <h3 align="center">I have been working as a front-end developer for 1.5 years. Engaged in product support, created user-friendly interfaces, worked on creating beautiful and user-friendly UI kits. I work on Scrum and Agile projects. Creation of architecture for projects and optimization of web applications written in React, Redux, Next JS</h3>
 
 - 🔭 I’m currently working on [GeekStudio](https://www.geekstudio.kg/)
